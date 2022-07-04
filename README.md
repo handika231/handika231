@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handika231&label=Profile%20views&color=0e75b6&style=flat" alt="handika231" /> </p>
 
-- 🌱 I’m currently learning **PHP, MySQL**
+- 🌱 I’m Focus on **Flutter,Dart, Android Native**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Kotlin**
 
 - 📫 How to reach me **shandika231@gmail.com**
 
