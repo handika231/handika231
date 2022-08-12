@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Kotlin**
 
-- 📫 How to reach me **shandika231@gmail.com**
+- 📫 How to reach me **handika.aryatama@gmail.com*
 
 - ✏️ Write about Dart and Flutter in [Anbidev](https://www.anbidev.com/)
 
