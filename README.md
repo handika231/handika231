@@ -9,7 +9,16 @@
 
 - 📫 How to reach me **shandika231@gmail.com**
 
-- ⚡ Fun fact **I love Indomie**
+## Certifications
+- Dicoding [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/ERZRMDR82PYV)
+- Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/0LZ01NR80P65)
+- Dicoding [Memulai Pemrograman Dengan Java](https://www.dicoding.com/certificates/NVP7KWDW4ZR0)
+- Dicoding [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/0LZ01JN0NP65)
+- Dicoding [Meniti Karier sebagai Software Developer](https://www.dicoding.com/certificates/72ZDOMDDLXYW)
+- Dicoding [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/JLX1GV2NJZ72)
+- Dicoding [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/QLZ9K68NDZ5D)
+- Dicoding [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/MRZMDYK7RZYQ)
+- Dicoding [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/98XWRLL44ZM3)
 
 
 
