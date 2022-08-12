@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **shandika231@gmail.com**
 
+- ✏️ Write about Dart and Flutter in Anbidev(https://www.anbidev.com/)
+
 ## Certifications
 - Dicoding [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/ERZRMDR82PYV)
 - Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/0LZ01NR80P65)
