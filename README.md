@@ -21,6 +21,7 @@
 - Dicoding [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/QLZ9K68NDZ5D)
 - Dicoding [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/MRZMDYK7RZYQ)
 - Dicoding [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/98XWRLL44ZM3)
+- Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/72ZDORWJ6XYW)
 - BuildWithAngga [Flutter:Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
 
 
