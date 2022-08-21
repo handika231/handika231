@@ -24,6 +24,7 @@
 - Dicoding [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/certificates/72ZDORWJ6XYW)
 - Dicoding [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/0LZ01E4RNP65)
 - Dicoding [Memulai Pemograman dengan Python](https://www.dicoding.com/certificates/81P2GJJ0NPOY)
+- Dicoding [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP7KE26WZR0)
 - BuildWithAngga [Flutter:Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
 
 
