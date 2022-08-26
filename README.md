@@ -26,6 +26,7 @@
 - Dicoding [Memulai Pemograman dengan Python](https://www.dicoding.com/certificates/81P2GJJ0NPOY)
 - Dicoding [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP7KE26WZR0)
 - BuildWithAngga [Flutter:Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
+- Udemy [Cara Cepat Belajar Flutter](https://www.udemy.com/certificate/UC-21a1aa3b-9819-4730-bf0c-1164bd2fea41/)
 
 
 
