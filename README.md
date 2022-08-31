@@ -26,6 +26,7 @@
 - Dicoding [Memulai Pemograman dengan Python](https://www.dicoding.com/certificates/81P2GJJ0NPOY)
 - Dicoding [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/NVP7KE26WZR0)
 - Dicoding [Belajar Dasar Pemograman Javascript](https://www.dicoding.com/certificates/07Z6R9N42PQR)
+- Dicoding [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/certificates/ERZRMVR3OPYV)
 - Udemy [Cara Cepat Belajar Flutter](https://www.udemy.com/certificate/UC-21a1aa3b-9819-4730-bf0c-1164bd2fea41/)
 - Udemy [Calculator Apps using Flutter and GetX](https://www.udemy.com/certificate/UC-8f2ec906-abc6-4d47-b7a1-71802f8c168d/)
 - Udemy [Pemrograman Dart dari Pemula sampai Mahir](https://www.udemy.com/certificate/UC-b6b81ed7-e479-4c51-8a64-f2b46accb04d/)
