@@ -30,7 +30,7 @@
 - Udemy [Cara Cepat Belajar Flutter](https://www.udemy.com/certificate/UC-21a1aa3b-9819-4730-bf0c-1164bd2fea41/)
 - Udemy [Calculator Apps using Flutter and GetX](https://www.udemy.com/certificate/UC-8f2ec906-abc6-4d47-b7a1-71802f8c168d/)
 - Udemy [Pemrograman Dart dari Pemula sampai Mahir](https://www.udemy.com/certificate/UC-b6b81ed7-e479-4c51-8a64-f2b46accb04d/)
-- BuildWithAngga [Flutter:Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
+- BuildWithAngga [Flutter: Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
 - BuildWithAngga [Flutter UI Design](https://buildwithangga.com/talent/shandika231/mastering-ui-design-to-flutter-jobs-app)
 
 
