@@ -30,6 +30,7 @@
 - Udemy [Cara Cepat Belajar Flutter](https://www.udemy.com/certificate/UC-21a1aa3b-9819-4730-bf0c-1164bd2fea41/)
 - Udemy [Calculator Apps using Flutter and GetX](https://www.udemy.com/certificate/UC-8f2ec906-abc6-4d47-b7a1-71802f8c168d/)
 - Udemy [Pemrograman Dart dari Pemula sampai Mahir](https://www.udemy.com/certificate/UC-b6b81ed7-e479-4c51-8a64-f2b46accb04d/)
+- Udemy [Flutter Indonesia[2021] - Membuat Aplikasi itu Mudah](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ce506589-b150-4687-ba1e-c8fcdf490fb1.pdf)
 - Udemy [Flutter Made Easy in Bahasa Indonesia](https://www.udemy.com/certificate/UC-89c726e5-31db-4466-a052-93b83fcc927f/)
 - BuildWithAngga [Flutter: Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
 - BuildWithAngga [Flutter UI Design](https://buildwithangga.com/talent/shandika231/mastering-ui-design-to-flutter-jobs-app)
