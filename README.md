@@ -32,6 +32,7 @@
 - Udemy [Pemrograman Dart dari Pemula sampai Mahir](https://www.udemy.com/certificate/UC-b6b81ed7-e479-4c51-8a64-f2b46accb04d/)
 - Udemy [Flutter Indonesia[2021] - Membuat Aplikasi itu Mudah](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ce506589-b150-4687-ba1e-c8fcdf490fb1.pdf)
 - Udemy [Flutter Made Easy in Bahasa Indonesia](https://www.udemy.com/certificate/UC-89c726e5-31db-4466-a052-93b83fcc927f/)
+- Udemy [Flutter Firebase with Getx](https://udemy-certificate.s3.amazonaws.com/pdf/UC-29af155a-26c6-4d44-ab32-50b60f80d5c8.pdf)
 - BuildWithAngga [Flutter: Find House App](https://buildwithangga.com/talent/shandika231/dart-flutter-development-bootcamp-find-house-app)
 - BuildWithAngga [Flutter UI Design](https://buildwithangga.com/talent/shandika231/mastering-ui-design-to-flutter-jobs-app)
 
